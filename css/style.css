@@ -5,6 +5,7 @@
     font-family: "Poppins", sans-serif;
 }
 
+/* Navbar styling */
 .navbar {
     background-image: linear-gradient(to right, #a517ba, #5f1178);
 }
@@ -23,3 +24,5 @@
     text-decoration: none;
     color: oldlace;
 }
+
+/* Banner section */
