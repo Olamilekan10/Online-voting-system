@@ -5,3 +5,21 @@
     font-family: "Poppins", sans-serif;
 }
 
+.navbar {
+    background-image: linear-gradient(to right, #a517ba, #5f1178);
+}
+
+.nav_li {
+    padding: 15px;
+}
+
+.nav_a {
+    text-decoration: none;
+    color: #fff;
+    text-decoration: 700;
+}
+
+.nav_a:hover {
+    text-decoration: none;
+    color: oldlace;
+}
