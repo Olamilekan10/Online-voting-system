@@ -38,6 +38,7 @@
     margin-top: 100px;
 }
 
+/* Voting section */
 .votingBtn {
     padding: 12px 24px;
     background-image: linear-gradient(to right, #a517ba, #5f1178);
@@ -54,4 +55,12 @@
 
 .votingBtn.active {
     transform: scale(0.9);
+}
+
+/* About section */
+#about {
+    background-image: linear-gradient(to right, #a517ba, #5f1178);
+    color: #fff;
+    padding-top: 5%;
+    height: 100vh;
 }
