@@ -64,3 +64,9 @@
     padding-top: 5%;
     height: 100vh;
 }
+
+/* Contact section */
+.contact-form-home {
+    border: 2px solid #a517ba;
+    padding: 20px;
+}
