@@ -70,3 +70,9 @@
     border: 2px solid #a517ba;
     padding: 20px;
 }
+
+.submitBtn {
+    background-color: #a517ba !important;
+    border: none;
+    outline: none;
+}
