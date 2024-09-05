@@ -80,3 +80,11 @@
     transition: transform 250ms ease-in-out;
     margin-left: auto;
 }
+
+/* Footer section */
+.footer_social_ul li {
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
