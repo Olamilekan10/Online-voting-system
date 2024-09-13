@@ -5,4 +5,4 @@ $password = $_REQUEST['password'];
 
 include('dbConnect.php');
 
-$sql = "select * from admin"
+$sql = "select * from admin where username='$username' and password='$password"
