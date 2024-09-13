@@ -15,7 +15,11 @@
 </head>
 
 <body>
-
+    <section>
+        <div class="card">
+            
+        </div>
+    </section>
 
 
     <!-- bootstrap js bundle -->
