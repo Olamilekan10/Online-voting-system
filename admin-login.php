@@ -28,7 +28,10 @@
 
                 <form action="process.php" method="post">
                     <div class="form-group">
-                        <input type="text" placeholder="">
+                        <input required type="text" class="form-control" name="username" placeholder="Please enter your Email" value="">
+                    </div>
+                    <div class="form-group">
+                        <input required type="password" class="form-control" name="password" placeholder="Please enter your Password" value="">
                     </div>
                 </form>
 
