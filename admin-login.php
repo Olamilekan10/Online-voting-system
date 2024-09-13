@@ -17,7 +17,16 @@
 <body>
     <section>
         <div class="card">
-            
+            <div class="col-md-12">
+                <h3>Admin login</h3>
+                <?php session_start();
+                if (isset($_SESSION['error'])) {
+                    echo $_SESSION['error'];
+                    unset($_SESSION['error']);
+                }
+                ?>
+
+            </div>
         </div>
     </section>
 
