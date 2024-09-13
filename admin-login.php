@@ -27,7 +27,9 @@
                 ?>
 
                 <form action="process.php" method="post">
-
+                    <div class="form-group">
+                        <input type="text" placeholder="">
+                    </div>
                 </form>
 
             </div>
