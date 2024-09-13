@@ -16,6 +16,12 @@ if($stmt->rowCount() > 0) {
         $_SESSION['aid']- $row['aid'];
         $_SESSION['admin_id']- $username;
         $_SESSION['aname']- $row['aname'];
-        header("location: admin-dashboard.php");
+        header("location: admin-dashboard.php"); 
+    } else {
+        $_SESSION['error']="Wrong password";
+        header("location: admin-login.php");
     }
-}
+}else {
+        $_SESSION['error']="User not found";
+        header("location: admin-login.php");
+    }
