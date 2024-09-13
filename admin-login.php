@@ -26,6 +26,10 @@
                 }
                 ?>
 
+                <form action="process.php" method="post">
+
+                </form>
+
             </div>
         </div>
     </section>
