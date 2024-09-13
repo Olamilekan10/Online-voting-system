@@ -33,6 +33,9 @@
                     <div class="form-group">
                         <input required type="password" class="form-control" name="password" placeholder="Please enter your Password" value="">
                     </div>
+                    <div class="form-group">
+                        <input type="submit" class="btnSubmit" value="Login">
+                    </div>
                 </form>
 
             </div>
