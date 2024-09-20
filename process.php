@@ -1,4 +1,5 @@
 <!-- Form Data Received -->
+<?
 
 $username = $_REQUEST['username'];
 $password = $_REQUEST['password'];
@@ -22,6 +23,8 @@ if($stmt->rowCount() > 0) {
         header("location: admin-login.php");
     }
 }else {
-        $_SESSION['error']="User not found";
+        $_SESSION['error']="Wrong User ID";
         header("location: admin-login.php");
-    }
+}
+
+?>
