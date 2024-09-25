@@ -56,7 +56,7 @@
                             <a class="nav_a" href="#">Candidates</a>
                         </li>
                         <li class="nav_li">
-                            <a class="nav_a" href="#">Logout</a>
+                            <a class="nav_a" href="logout.php">Logout</a>
                         </li>
                     </ul>
                 </div>
