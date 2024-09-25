@@ -44,10 +44,19 @@
                             <a class="nav_a" href="admin-dashboard.php">Dashboard</a>
                         </li>
                         <li class="nav_li">
-                            <a class="nav_a" href="#">Result</a>
+                            <a class="nav_a" href="#">Suggestions</a>
                         </li>
                         <li class="nav_li">
-                            <a class="nav_a" href="#">About</a>
+                            <a class="nav_a" href="#">Contact</a>
+                        </li>
+                        <li class="nav_li">
+                            <a class="nav_a" href="#">Users</a>
+                        </li>
+                        <li class="nav_li">
+                            <a class="nav_a" href="#">Candidates</a>
+                        </li>
+                        <li class="nav_li">
+                            <a class="nav_a" href="#">Logout</a>
                         </li>
                     </ul>
                 </div>
