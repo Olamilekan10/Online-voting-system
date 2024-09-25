@@ -41,7 +41,7 @@
                             <a class="nav_a" href="index.html">Home</a>
                         </li>
                         <li class="nav_li">
-                            <a class="nav_a" href="year.html">Candidate</a>
+                            <a class="nav_a" href="admin-dashboard.php">Dashboard</a>
                         </li>
                         <li class="nav_li">
                             <a class="nav_a" href="#">Result</a>
