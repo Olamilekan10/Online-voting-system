@@ -108,7 +108,7 @@
                 </form>
             </div>
             <div class="col-md-6" style="padding-top: 20px">
-                <img src="img/svg4.jfif" alt="" height="300" width="300">
+                <img src="img/svg4.jfif" alt="" width="100%" height="90%">
             </div>
         </div>
     </div>
