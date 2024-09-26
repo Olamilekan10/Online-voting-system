@@ -65,6 +65,39 @@
                             <td>Name :</td>
                             <td><input required type="text"></td>
                         </tr>
+                        <tr>
+                            <td>Email :</td>
+                            <td><input required type="email"></td>
+                        </tr>
+                        <tr>
+                            <td>Mobile Number :</td>
+                            <td><input required type="number"></td>
+                        </tr>
+                        <tr>
+                            <td>Branch :</td>
+                            <td>
+                                <select required>
+                                    <option>Information Technology</option>
+                                    <option>Computer Science</option>
+                                    <option>Civil</option>
+                                    <option>Mechanical </option>
+                                    <option>Electronics and Telecom.</option>
+                                    <option>Electrical</option>
+                                    <option>Metallurgy</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Roll No. :</td>
+                            <td><input type="number" required></td>
+                        </tr>
+                        <tr>
+                            <td>Enrollment ID :</td>
+                            <td><input type="text"></td>
+                        </tr>
+                        <tr>
+                            
+                        </tr>
                     </table>
                 </form>
             </div>
