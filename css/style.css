@@ -94,3 +94,9 @@
     margin: 10px;
     color: #a517ba;
 } 
+
+/* insert_1_cand styling */
+td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

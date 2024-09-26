@@ -17,6 +17,10 @@
     <!-- custom css -->
     <link rel="stylesheet" href="css/style.css">
     <!-- custom css -->
+
+    <style>
+
+    </style>
 </head>
 
 <body>
@@ -57,7 +61,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h1 style="padding-top: 20px;">Candidate Enroll</h1>
-                <p style="padding-top: 20px;">2<sup>nd</sup> Year Enroll</p>
+                <p style="padding-top: 10px;">1<sup>st</sup> Year Enroll</p>
 
                 <form action="" method="post">
                     <table>
@@ -96,10 +100,13 @@
                             <td><input type="text"></td>
                         </tr>
                         <tr>
-                            
+                            <td><button type="submit" class="btn btn primary">Submit</button></td>
                         </tr>
                     </table>
                 </form>
+            </div>
+            <div class="col-md-6" style="padding-top: 20px">
+                <img src="img" alt="">
             </div>
         </div>
     </div>
