@@ -57,6 +57,16 @@
         <div class="row">
             <div class="col-md-6">
                 <h1 style="padding-top: 20px;">Candidate Enroll</h1>
+                <p style="padding-top: 20px;">2<sup>nd</sup> Year Enroll</p>
+
+                <form action="" method="post">
+                    <table>
+                        <tr>
+                            <td>Name :</td>
+                            <td><input required type="text"></td>
+                        </tr>
+                    </table>
+                </form>
             </div>
         </div>
     </div>
