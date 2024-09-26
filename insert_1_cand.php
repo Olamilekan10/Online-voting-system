@@ -19,7 +19,9 @@
     <!-- custom css -->
 
     <style>
-
+        td {
+            padding-top: 20px;
+        }
     </style>
 </head>
 
@@ -106,7 +108,7 @@
                 </form>
             </div>
             <div class="col-md-6" style="padding-top: 20px">
-                <img src="img" alt="">
+                <img src="img/svg3.png" alt="">
             </div>
         </div>
     </div>
