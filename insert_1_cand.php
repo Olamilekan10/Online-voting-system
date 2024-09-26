@@ -108,7 +108,7 @@
                 </form>
             </div>
             <div class="col-md-6" style="padding-top: 20px">
-                <img src="img/svg3.png" alt="">
+                <img src="img/svg3.png" alt="" width="300" height="300">
             </div>
         </div>
     </div>
